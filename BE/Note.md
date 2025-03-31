@@ -11,6 +11,9 @@ NoSQL (MongoDB) <br>
 ## Embedded Servlet Container
 Web server is bundled directly into your application instead of being installed and configured separately
 
+![image](https://github.com/user-attachments/assets/8ed86679-2545-41cb-ac5b-7f02d19ce902)
+
+
 # Plugin
 
 # Why i cannot run Application.java as main in Intellij
